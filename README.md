@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
 <h3 align="center">passionate ai dev</h3>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erikgonk&show_icons=true&theme=dark&locale=en" alt="erikgonk" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erikgonk&show_icons=true&locale=en&layout=compact" alt="erikgonk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erikgonk&show_icons=true&theme=dark&locale=en" alt="erikgonk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erikgonk&" alt="erikgonk" /></p>
 
