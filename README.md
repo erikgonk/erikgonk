@@ -2,6 +2,8 @@
 
 | Student at 42 Barcelona and AI & Machine Learning
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=erikgonk&label=Profile%20views&color=0c4c73&style=flat" alt="erikgonk" /> </p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erikgonk&show_icons=true&theme=dark&locale=en&layout=compact" alt="erikgonk" /></p>
 
