@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Erik</h1>
-<h3 align="center">Student at 42 Barcelona and AI bootcamp<br></h3>
+
+- Student at 42 Barcelona and AI & Machine Learning
+- 
+<break>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erikgonk&show_icons=true&theme=dark&locale=en&layout=compact" alt="erikgonk" /></p>
 
