@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Erik</h1>
 
 - Student at **42 Barcelona** and **AI & Machine Learning**
-<h2 align="center"></h2>
+  
+<h2 align="left">Data</h2>
 
-<h2 align="center">data</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erikgonk&show_icons=true&theme=dark&locale=en&layout=compact" alt="erikgonk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erikgonk&theme=dark" alt="erikgonk" /></p>
