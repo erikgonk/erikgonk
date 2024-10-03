@@ -5,7 +5,6 @@
 <table>
     <tr>
         <td align="center">Tecnologies</td>
-        <td align="center">Working ethics</td>
         <td align="center">Stats</td>
     </tr>
     <tr>
@@ -17,9 +16,6 @@
             <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
             <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
              <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-        </td>
-        <td align="center">
-            <a href="#"><img width="125" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683"></a>
         </td>
         <td align="center">
             <a href="#"><img align="center" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=005700&style=flat" alt="lluispp" /></a> <br>
