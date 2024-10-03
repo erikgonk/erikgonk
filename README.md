@@ -18,8 +18,8 @@
              <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
         </td>
         <td align="center">
-            <a href="#"><img align="center" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=005700&style=flat" alt="lluispp" /></a> <br>
-            <a href="#"><img align="center" src="https://img.shields.io/github/stars/LLuisPP?style=social"></a> 
+            <a href="#"><img align="center" src="https://komarev.com/ghpvc/?username=erikgonk&label=Profile%20views&color=005700&style=flat" alt="erikgonk" /></a> <br>
+            <a href="#"><img align="center" src="https://img.shields.io/github/stars/erikgonk?style=social"></a> 
         </td>
     </tr>
 </table>
