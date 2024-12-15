@@ -26,17 +26,18 @@
 
 <h2 align="left">Data</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikgonk&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikgonk&size&theme=dark_weight=0.5&count_weight=0.5)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erikgonk&theme=dark" alt="erikgonk" /></p>
+
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=erikgonk&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=erikgonk&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=erikgonk&show_icons=true" />
 </picture>
