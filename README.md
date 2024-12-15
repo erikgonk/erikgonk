@@ -33,8 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikgonk&size&theme=dark_weight=0.5&count_weight=0.5" />
 </picture>
       
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikgonk&size&theme=dark_weight=0.5&count_weight=0.5)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erikgonk&theme=dark" alt="erikgonk" /></p>
 
 <picture>
