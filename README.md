@@ -30,7 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erikgonk&theme=dark" alt="erikgonk" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
-
 
 
