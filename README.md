@@ -26,6 +26,6 @@
 
 <h2 align="left">Data</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erikgonk&show_icons=true&theme=dark&locale=en&layout=compact" alt="erikgonk" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikgonk&size_weight=0.5&count_weight=0.5)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erikgonk&theme=dark" alt="erikgonk" /></p>
