@@ -30,6 +30,7 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=erikgonk&size&theme=dark_weight=0.5&count_weight=0.5"
     media="(prefers-color-scheme: dark)"
   />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikgonk&size&theme=dark_weight=0.5&count_weight=0.5" />
 </picture>
       
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikgonk&size&theme=dark_weight=0.5&count_weight=0.5)
